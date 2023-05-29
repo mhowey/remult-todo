@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Clean car",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Buy Milk",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Learn TypeScript",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Read a book",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "Take a nap",
+    "completed": true
+  },
+  {
+    "id": 8,
+    "title": "Pay bills",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Do laundry",
+    "completed": false
+  }
+]
